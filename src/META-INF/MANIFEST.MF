@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: jackson-core-2.6.3.jar orchid-1.2.1.jar jackson-annotation
+ s-2.6.0.jar netty-codec-http-4.0.32.Final.jar okhttp-2.7.2.jar netty-
+ common-4.0.32.Final.jar jackson-databind-2.6.3.jar protobuf-java-2.6.
+ 1.jar netty-codec-4.0.32.Final.jar jcip-annotations-1.0.jar jsr305-2.
+ 0.1.jar netty-transport-native-epoll-4.0.32.Final.jar core-1.51.0.0.j
+ ar bitcoinj-core-0.14.2.jar scrypt-1.4.0.jar netty-socketio-1.7.8.jar
+  netty-handler-4.0.32.Final.jar okio-1.6.0.jar netty-transport-4.0.32
+ .Final.jar slf4j-api-1.7.12.jar netty-buffer-4.0.32.Final.jar guava-1
+ 8.0.jar
+Main-Class: com.assistantindustries.bytewallet.Server
+
