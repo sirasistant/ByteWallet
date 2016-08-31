@@ -16,7 +16,7 @@ After that, compile the wallet with maven:
 
 When it has finished, start the wallet issuing the command: 
 
-`java -jar out/artifacts/ByteWallet_jar/ByteWallet.jar`
+`java -jar target/bytewallet-VERSION_NAME.jar`
 
 And you are done!
 
