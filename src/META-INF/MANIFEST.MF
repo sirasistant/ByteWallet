@@ -9,4 +9,3 @@ Class-Path: jackson-core-2.6.3.jar orchid-1.2.1.jar jackson-annotation
  .Final.jar slf4j-api-1.7.12.jar netty-buffer-4.0.32.Final.jar guava-1
  8.0.jar
 Main-Class: com.assistantindustries.bytewallet.Server
-
