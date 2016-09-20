@@ -145,6 +145,7 @@ public class SocketInterface {
 
         kit.chain().addNewBestBlockListener(new NewBestBlockListener() {
             public void notifyNewBestBlock(StoredBlock storedBlock) throws VerificationException {
+                System.out.println("New block detected in network, broadcasting...");
                 server.getBroadcastOperations().sendEvent("newBlock");
             }
         });
